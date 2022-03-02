@@ -1,0 +1,9 @@
+{
+"attack_url": "https://news.ru",
+"bunches_count": 2,
+"count_per_bunch": 10,
+"pause_between_bunches_ms": 10,
+"pause_between_requests_ms": 10,
+"await_response": true,
+"version": 1
+}
