@@ -5,5 +5,5 @@
 "pause_between_bunches_ms": 10000,
 "pause_between_requests_ms": 10000,
 "await_response": true,
-"version": 2
+"version": 3
 }
